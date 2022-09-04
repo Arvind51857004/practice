@@ -1,5 +1,7 @@
 package com;
 
+
+//abstract class having abstract method and normal method test
 public abstract class Student {
 	
 	public void test() {
